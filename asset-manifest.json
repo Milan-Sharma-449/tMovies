@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tMovies/static/css/main.68423a49.chunk.css",
+    "main.js": "/tMovies/static/js/main.9f1fe597.chunk.js",
+    "main.js.map": "/tMovies/static/js/main.9f1fe597.chunk.js.map",
+    "runtime-main.js": "/tMovies/static/js/runtime-main.fdf4fcf3.js",
+    "runtime-main.js.map": "/tMovies/static/js/runtime-main.fdf4fcf3.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/tMovies/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.a676e311.chunk.js": "/tMovies/static/js/2.a676e311.chunk.js",
+    "static/js/2.a676e311.chunk.js.map": "/tMovies/static/js/2.a676e311.chunk.js.map",
+    "index.html": "/tMovies/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/tMovies/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.68423a49.chunk.css.map": "/tMovies/static/css/main.68423a49.chunk.css.map",
+    "static/js/2.a676e311.chunk.js.LICENSE.txt": "/tMovies/static/js/2.a676e311.chunk.js.LICENSE.txt",
+    "static/media/TERMS OF SERVICE.a619be15.docx": "/tMovies/static/media/TERMS OF SERVICE.a619be15.docx",
+    "static/media/boxicons.min.css": "/tMovies/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/tMovies/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/tMovies/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf4fcf3.js",
+    "static/css/2.25dc03cb.chunk.css",
+    "static/js/2.a676e311.chunk.js",
+    "static/css/main.68423a49.chunk.css",
+    "static/js/main.9f1fe597.chunk.js"
+  ]
+}
